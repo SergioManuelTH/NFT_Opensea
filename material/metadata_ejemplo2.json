@@ -1,0 +1,12 @@
+{
+    "description": "Descripcion ejemplo2",
+    "image":"https://gateway.pinata.cloud/ipfs/QmP8SqFLosdPM4M6qwJPwJqGHKychYotW4Z9HoTvTtUPGu",
+    "name":"ejemplo2",
+    "attributes":[
+        {
+            "trait_type": "Ejemplos",
+            "value":"pruebas"
+        }
+    ]
+
+}
